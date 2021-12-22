@@ -52,3 +52,5 @@
 **22.12.21**
 
 Доклад на спецсеминаре по статье "Generalized Anomaly Detection": [https://arxiv.org/pdf/2110.15108.pdf](https://arxiv.org/pdf/2110.15108.pdf)
+
+[Слайды](https://github.com/ezzbreezn/research_seminar/blob/main/Reports/Generalized%20Anomaly%20Detection.pdf)
