@@ -48,3 +48,7 @@
 Узнал про Google Vizier, нужно будет ознакомиться
 
 [https://storage.googleapis.com/pub-tools-public-publication-data/pdf/bcb15507f4b52991a0783013df4222240e942381.pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/bcb15507f4b52991a0783013df4222240e942381.pdf)
+
+**22.12.21**
+
+Доклад на спецсеминаре по статье "Generalized Anomaly Detection": [https://arxiv.org/pdf/2110.15108.pdf](https://arxiv.org/pdf/2110.15108.pdf)
